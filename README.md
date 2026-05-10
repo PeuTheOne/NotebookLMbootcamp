@@ -1,2 +1,2 @@
 # NotebookLMbootcamp
-analises de mouses e teclados
+analises de mouses e teclados para compras futuras
